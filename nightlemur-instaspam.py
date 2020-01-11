@@ -128,7 +128,7 @@ def Fail(username,shit):
     + " " + shit)
 
 def Status(shit):
-    print(Fore.WHİTE +" NightLemur ~" + Style.RESET_ALL
+    print(Fore.WHITE +" NightLemur ~" + Style.RESET_ALL
     + " " + shit)
 
 def DoitAnakin(reportedGuy,reportedGuyID,username,password,proxy):
